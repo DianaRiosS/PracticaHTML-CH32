@@ -1,0 +1,24 @@
+.Face{
+    background-color: skyblue;
+}
+
+.Insta{
+    background-color: mediumpurple;
+}
+
+.Whats{
+    background-color: lightgreen;
+}
+
+.X{
+    background-color: lightblue;
+}
+
+.Snap{
+    background-color: khaki;
+}
+
+.image{
+    width: 200px; 
+    height: 200px;
+}
